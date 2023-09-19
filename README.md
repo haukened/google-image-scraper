@@ -1,5 +1,9 @@
 # Google Image Scraper
-A python script for web scraping, to collect iamges for machine learning model training.
+
+<div style="display:flex; flex-direction: row; gap: 5em; justify-content: space-between;">
+    <p>A python script for web scraping, to collect images for machine learning model training.</p>
+    <img alt="a space python ready to steal your images" style="" src="README.png" width="100px">
+</div>
 
 ## What is this?
 In experimenting with some image classification machine learning, I realized that for some nice industrial things the images that I was needing to work with were very poorly represented in available public data sets.  
