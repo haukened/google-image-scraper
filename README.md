@@ -1,4 +1,4 @@
-# Google Image Scraper
+# <span style="font-weight: bold; font-size: 1.25em;"><span style="color: blue;">G</span><span style="color: red;">o</span><span style="color: gold;">o</span><span style="color: blue;">g</span><span style="color: green;">l</span><span style="color: red;">e</span></span> Image Scraper
 
 <div style="display:flex; flex-direction: row; gap: 5em; justify-content: space-between;">
     <p>A python script for web scraping, to collect images for machine learning model training.</p>
@@ -22,6 +22,18 @@ tl;dr - Probably not.
 Legalities of things vary widely based on your geographic location, and where your code is deployed.  If you're in Europe using a virtual machine in the United States for a project that will be deployed in China, I can't really help you on the legality of that, or what law applies.
 
 In general, however, unless license is explicitly granted for use of images, the copyright of those images belongs to the photographer / publisher.  As such, re-distribution and use of those images may be restricted in some manner.  Its up to you to comply with the law, and this software is being made available as a learning tool, without warranty.
+
+## How does <span style="font-weight: bold; font-size: 1.25em;"><span style="color: blue;">G</span><span style="color: red;">o</span><span style="color: gold;">o</span><span style="color: blue;">g</span><span style="color: green;">l</span><span style="color: red;">e</span></span> feel about this?
+
+To quote the [Google Terms of Service](https://policies.google.com/terms):
+
+>Google reserves the right to suspend or terminate your access to the services or delete your Google Account if any of these things happen:
+>
+>- you materially or repeatedly breach these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-US)
+>- we’re required to do so to comply with a legal requirement or a court order
+>- your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or <mark>scraping content that doesn’t belong to you</mark>
+
+So that being said, not all scraping is a ToS violation. People surf Google Images and download content for their own personal use every day, the semantics involve how much, how fast, and improtantly _for what purpose_.  Take care to keep to a resonable number of images, that you intend to use for the proper purposes.
 
 ## Quick Start
 
